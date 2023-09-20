@@ -21,7 +21,7 @@ export default {
     },
     {
       name: 'google-site-verification',
-      content: 'ji7VpXPkv1ZfH5Z9A01hwAEa_CnlSWwLNxnYtyy7s',
+      content: 'd-ji7VpXPkv1ZfH5Z9A01hwAEa_CnlSWwLNxnYtyy7s',
     },
   ],
 };
