@@ -26,6 +26,7 @@ export default function Home({ infos }: IProps) {
       <NextSeo
         title="건강검진센터 위치"
         description="건강검진센터 위치서비스입니다."
+        canonical="http://www.mysite.com/article/article1.html"
       />
       <Header />
       <MapScene />
