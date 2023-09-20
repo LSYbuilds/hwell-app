@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://hwell-6srq6xkpf-lsybuilds.vercel.app/
+
+# Sitemaps
+Sitemap: https://hwell-6srq6xkpf-lsybuilds.vercel.app/sitemap.xml
