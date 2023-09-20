@@ -17,7 +17,7 @@ export default {
   additionalMetaTags: [
     {
       name: 'naver-site-verification',
-      content: 'cd8ff48dc782749f78545a63b0549fa386dc1b6b',
+      content: 'f7ce840bfed924300f28f1bfdc4ee758969285c7',
     },
   ],
 };
